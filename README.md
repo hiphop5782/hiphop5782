@@ -1,5 +1,9 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=H'academy&fontAlign=27&fontAlignY=32&color=gradient&desc=Freelancer%20Web%20Development%20Teacher&descAlign=26&descAlignY=56)
 
+현직 국비학원 강사, 유튜버, 프리랜서입니다
+
+![Hacademy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiphop5782&theme=vue-dark&show_icons=true)
+
 # Development Stack
 
 ## Language
