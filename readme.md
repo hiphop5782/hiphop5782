@@ -7,6 +7,10 @@
 [![Hacademy Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiphop5782&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiphop5782&label=Profile%20views&color=0e75b6&style=flat" alt="hiphop5782" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiphop5782" alt="hiphop5782" /></a> </p>
+
 # Development Skill
 
 ## Language
