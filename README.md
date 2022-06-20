@@ -1,1 +1,1 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&customColorList=19&height=200&text=H'academy&fontAlign=71&rotate=13&fontAlignY=22&desc=Freelancer%20Web%20Development%20Teacher&descAlign=70.&descAlignY=44)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=H'academy&fontAlign=27&fontAlignY=32&color=gradient&desc=Freelancer%20Web%20Development%20Teacher&descAlign=26&descAlignY=56)
