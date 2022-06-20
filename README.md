@@ -7,7 +7,7 @@
 [![Hacademy Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiphop5782&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-# Development Stack
+# Development Skill
 
 ## Language
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
