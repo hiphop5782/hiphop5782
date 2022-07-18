@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiphop5782&label=Profile%20views&color=0e75b6&style=flat" alt="hiphop5782" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiphop5782" alt="hiphop5782" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiphop5782&column=3&margin-w=15&margin-h=15" alt="hiphop5782" /></a> </p>
 
 # Development Skill
 
