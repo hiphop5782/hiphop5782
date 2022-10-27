@@ -2,6 +2,8 @@
 
 현직 국비학원 강사, 유튜버, 프리랜서 개발자입니다
 
+### [Naver Expert - 열혈강사](https://m.expert.naver.com/expert/profile/home?storeId=100034515)
+
 ![Hacademy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiphop5782&count_private=true&theme=vue-dark&show_icons=true)
 
 [![Hacademy Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiphop5782&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -10,8 +12,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiphop5782&label=Profile%20views&color=0e75b6&style=flat" alt="hiphop5782" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiphop5782&column=3&margin-w=15&margin-h=15" alt="hiphop5782" /></a> </p>
-
-<p align="left"><img src="./지식인증명서.png"></p>
 
 # Development Skill
 
