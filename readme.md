@@ -1,5 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=H'academy&fontAlign=27&fontAlignY=32&color=gradient&desc=Freelancer%20Web%20Development%20Teacher&descAlign=26&descAlignY=56)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiphop5782&label=Profile%20views&color=0e75b6&style=flat" alt="hiphop5782" /> </p>
+
 현직 국비학원 강사, 유튜버, 프리랜서 개발자입니다
 
 [![Youtube - 열혈강사](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCdllyP_VgK-PY7VJRWOkOKQ)
@@ -15,8 +17,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hiphop5782&theme=vue)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hiphop5782&theme=vue)](https://git.io/streak-stats)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiphop5782&label=Profile%20views&color=0e75b6&style=flat" alt="hiphop5782" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiphop5782&column=3&margin-w=15&margin-h=15" alt="hiphop5782" /></a> </p>
 
