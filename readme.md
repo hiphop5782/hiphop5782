@@ -1,9 +1,8 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=H'academy&fontAlign=27&fontAlignY=32&color=gradient&desc=Freelancer%20Web%20Development%20Teacher&descAlign=26&descAlignY=56)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiphop5782&label=Profile%20views&color=0e75b6&style=flat" alt="hiphop5782" /> </p>
-
 현직 국비학원 강사, 유튜버, 프리랜서 개발자입니다
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiphop5782&label=Profile%20views&color=0e75b6&style=flat" alt="hiphop5782" /> </p>
 [![Youtube - 열혈강사](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCdllyP_VgK-PY7VJRWOkOKQ)
 [![Naver Expert - 열혈강사](https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=NAVER&logoColor=FFFFFF)](https://m.expert.naver.com/expert/profile/home?storeId=100034515)
 
