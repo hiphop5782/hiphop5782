@@ -5,6 +5,8 @@
 [![Youtube - 열혈강사](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCdllyP_VgK-PY7VJRWOkOKQ)
 [![Naver Expert - 열혈강사](https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=NAVER&logoColor=FFFFFF)](https://m.expert.naver.com/expert/profile/home?storeId=100034515)
 
+![Hacademy's Github streak stats](https://github-readme-streak-stats.herokuapp.com/?user={hiphop5782})
+
 ![Hacademy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiphop5782&count_private=true&theme=vue-dark&show_icons=true)
 
 [![Hacademy Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiphop5782&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
