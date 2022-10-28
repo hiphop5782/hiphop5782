@@ -7,6 +7,12 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiphop5782&theme=vue)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hiphop5782&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hiphop5782&theme=vue)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hiphop5782&count_private=true&theme=vue&show_icons=true)
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=hiphop5782&theme=vue)](https://git.io/streak-stats)
 
 ![Hacademy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiphop5782&count_private=true&theme=vue-dark&show_icons=true)
